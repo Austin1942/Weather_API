@@ -1,0 +1,16 @@
+#container{
+    justify-content: center;
+    
+}
+
+.row{
+    padding-top: 350px;
+}
+
+body { 
+    background-image: url(https://res.cloudinary.com/the-agro-craig/image/upload/v1636929938/weather2_xk6mad.jpg); 
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
